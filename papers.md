@@ -1,19 +1,31 @@
-# 2020
-:page_with_curl: [Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. *Journal of Science*, 39(2), 182-999. ](/study1/readme.md)
+## This can be your internal website page / project page
 
-Open Source | Data available
+**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-:page_with_curl: [Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. *Journal of Science*, 39(2), 182-999. ](/study1/readme.md)
+### 1. Suggest hypotheses about the causes of observed phenomena
 
-Open Source | Data available
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-:page_with_curl: [Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. *Journal of Science*, 39(2), 182-999. ](/study1/readme.md)
+```javascript
+if (isAwesome){
+  return true
+}
+```
 
-Open Source | Data available
+### 2. Assess assumptions on which statistical inference will be based
 
-# 2019
-:page_with_curl: [Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. *Journal of Science*, 39(2), 182-999. ](/study1/readme.md)
+```javascript
+if (isAwesome){
+  return true
+}
+```
 
-:page_with_curl: [Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. *Journal of Science*, 39(2), 182-999. ](/study1/readme.md)
+### 3. Support the selection of appropriate statistical tools and techniques
 
-:page_with_curl: [Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. *Journal of Science*, 39(2), 182-999. ](/study1/readme.md)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 4. Provide a basis for further data collection through surveys or experiments
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
