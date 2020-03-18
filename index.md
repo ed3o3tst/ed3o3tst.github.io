@@ -1,6 +1,12 @@
 # What I do
 Welcome to my personal website. Here you can have a view at my published [papers](/papers).
 
+## Header2
+Text onder deze header.
+
+### Header3
+En onder deze.
+
 <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
     <div class="resume-content">
         <h3 class="mb-0">Web Developer</h3>
