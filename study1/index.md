@@ -19,22 +19,6 @@ Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi biben
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-<style>.supsub {
-    display: inline-block;
-}
-
-.supsub sup,
-.supsub sub {
-    position: relative;
-    display: block;
-    font-size: .5em;
-    line-height: 1.2;
-}
-
-.supsub sub {
-    top: .3em;
-}</style>
-Some text <span class="supsub"><sup>sup</sup><sub>sub</sub></span> followed by other text.<br />
 
 |        | lceopt [m]  | Fmax [n] |
 | ------ | ----------- | -------- |
