@@ -12,7 +12,7 @@ Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi biben
 
 [![DOI](https://zenodo.org/badge/175648361.svg)](https://zenodo.org/badge/latestdoi/175648361)
 
-### :floppy_disk: Get the data
+## :floppy_disk: Get the data
 
 | Col 1 | Col 2 |
 | ------------- | ------------- |
