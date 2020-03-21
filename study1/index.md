@@ -19,14 +19,22 @@ Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi biben
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-\(inline\)
+<style>.supsub {
+    display: inline-block;
+}
 
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
-\begin{equation}
-...
-\end{equation}
-<br>
-$$x_{1,2} = {-b\pm\sqrt{b_2^2 - 4ac} \over 2a}.$$
+.supsub sup,
+.supsub sub {
+    position: relative;
+    display: block;
+    font-size: .5em;
+    line-height: 1.2;
+}
+
+.supsub sub {
+    top: .3em;
+}</style>
+Some text <span class="supsub"><sup>sup</sup><sub>sub</sub></span> followed by other text.<br />
 
 |        | lceopt [m]  | Fmax [n] |
 | ------ | ----------- | -------- |
