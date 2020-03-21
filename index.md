@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <section class="resume-section" id="about">
     <div>
         <h1 class="mb-0">Clarence
