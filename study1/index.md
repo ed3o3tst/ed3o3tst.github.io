@@ -22,7 +22,9 @@ Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi biben
 \(inline\)
 
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
-
+\begin{equation}
+...
+\end{equation}
 <br>
 $$x_{1,2} = {-b\pm\sqrt{b_2^2 - 4ac} \over 2a}.$$
 
