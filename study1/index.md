@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Pellentesque a nulla accumsan nisi bibendum maximus
 *John D.M. Doe, Carl F.K. Magnussen & Jin Li*
 
