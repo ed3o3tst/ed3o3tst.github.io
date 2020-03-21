@@ -1,8 +1,4 @@
----
-layout: default
----
-
-<h2>Skills</h2>
+I"a<h2>Skills</h2>
 <div class="company">Programming Languages &amp; Tools</div>
 <ul class="list-inline dev-icons">
     <li class="list-inline-item">
@@ -14,9 +10,9 @@ layout: default
     <li class="list-inline-item">
         <i class="fab fa-js-square"></i>
     </li>
-    <li class="list-inline-item">
-        <i class="fab fa-angular"><div class="hide">ssdfs</div></i>
-    </li>
+    <li class="list-inline-item hide">
+        <i class="fab fa-angular"></i> <div class="hide">ssdfs&lt;/p&gt;
+    &lt;/li&gt;
     <li class="list-inline-item">
         <i class="fab fa-react"></i>
     </li>
@@ -41,7 +37,7 @@ layout: default
     <li class="list-inline-item">
         <i class="fab fa-npm"></i>
     </li>
-</ul>
+&lt;/ul&gt;
 <div class="company">Workflow</div>
 <ul class="fa-ul mb-0">
     <li>
@@ -61,3 +57,5 @@ layout: default
         Agile Development &amp; Scrum
     </li>
 </ul>
+</div></li></ul>
+:ET
