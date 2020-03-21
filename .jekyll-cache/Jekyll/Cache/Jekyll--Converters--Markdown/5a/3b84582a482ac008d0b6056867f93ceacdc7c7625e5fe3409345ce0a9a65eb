@@ -1,8 +1,4 @@
----
-layout: default
----
-
-<h2>Skills</h2>
+I"><h2>Skills</h2>
 <div class="company">Programming Languages &amp; Tools</div>
 <ul class="list-inline dev-icons">
     <li class="list-inline-item">
@@ -61,3 +57,4 @@ layout: default
         Agile Development &amp; Scrum
     </li>
 </ul>
+:ET

@@ -1,11 +1,11 @@
-# What I do
-Welcome to my personal website. Here you can have a view at my published [papers](/papers).
+I"Û<h1 id="what-i-do">What I do</h1>
+<p>Welcome to my personal website. Here you can have a view at my published <a href="/papers">papers</a>.</p>
 
-## Header2
-Text onder deze header.
+<h2 id="header2">Header2</h2>
+<p>Text onder deze header.</p>
 
-### Header3
-En onder deze.
+<h3 id="header3">Header3</h3>
+<p>En onder deze.</p>
 
 <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
     <div class="resume-content">
@@ -19,5 +19,6 @@ En onder deze.
     </div>
 </div>
 
-# Contact
-ilovegwen@gmail.com
+<h1 id="contact">Contact</h1>
+<p>ilovegwen@gmail.com</p>
+:ET

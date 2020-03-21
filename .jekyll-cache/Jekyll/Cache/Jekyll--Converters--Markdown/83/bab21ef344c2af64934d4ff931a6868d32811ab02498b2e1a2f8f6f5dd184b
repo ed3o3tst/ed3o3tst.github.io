@@ -1,4 +1,4 @@
-I"<h2>Skills</h2>
+I"$<h2>Skills</h2>
 <div class="company">Programming Languages &amp; Tools</div>
 <ul class="list-inline dev-icons">
     <li class="list-inline-item">
@@ -10,8 +10,8 @@
     <li class="list-inline-item">
         <i class="fab fa-js-square"></i>
     </li>
-    <li class="list-inline-item">
-        <i class="fab fa-angular"></i>
+    <li class="list-inline-item hide">
+        <i class="fab fa-angular">ss</i>
     </li>
     <li class="list-inline-item">
         <i class="fab fa-react"></i>

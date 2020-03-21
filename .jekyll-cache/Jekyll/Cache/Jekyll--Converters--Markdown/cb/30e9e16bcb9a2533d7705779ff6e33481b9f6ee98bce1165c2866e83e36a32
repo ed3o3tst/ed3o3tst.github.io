@@ -1,8 +1,4 @@
----
-layout: default
----
-
-<h2>Skills</h2>
+I"2<h2>Skills</h2>
 <div class="company">Programming Languages &amp; Tools</div>
 <ul class="list-inline dev-icons">
     <li class="list-inline-item">
@@ -15,7 +11,7 @@ layout: default
         <i class="fab fa-js-square"></i>
     </li>
     <li class="list-inline-item">
-        <i class="fab fa-angular"></i><style class="hide">ssdfs</style>
+        <i class="fab fa-angular"></i><p class="hide">s</p>
     </li>
     <li class="list-inline-item">
         <i class="fab fa-react"></i>
@@ -61,3 +57,4 @@ layout: default
         Agile Development &amp; Scrum
     </li>
 </ul>
+:ET
