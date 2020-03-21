@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Pellentesque a nulla accumsan nisi bibendum maximus
 *John D.M. Doe, Carl F.K. Magnussen & Jin Li*
 
@@ -14,5 +18,6 @@ Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi biben
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
 
 ## Further readings

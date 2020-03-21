@@ -1,0 +1,52 @@
+I"<h1 id="pellentesque-a-nulla-accumsan-nisi-bibendum-maximus">Pellentesque a nulla accumsan nisi bibendum maximus</h1>
+<p><em>John D.M. Doe, Carl F.K. Magnussen &amp; Jin Li</em></p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquam magna nec ipsum efficitur accumsan in gravida purus. Proin venenatis felis eget arcu ultrices blandit. Proin tempor congue metus lobortis cursus. Curabitur tincidunt, sapien vitae condimentum venenatis, mi leo suscipit nibh, nec accumsan arcu neque nec augue. Nullam quis mauris in tortor consequat ultricies quis vel urna. Mauris efficitur mi eget nisi rhoncus ultricies. Proin venenatis, ex rhoncus pellentesque efficitur, purus felis rutrum turpis, vel imperdiet ex odio ut tellus. Curabitur tempor, libero vel pretium iaculis, odio erat vulputate justo, ac rutrum sem risus ut dolor. Mauris at sem vel felis lacinia posuere et eget eros. Donec ornare fringilla dui nec interdum. Quisque venenatis diam eu nibh congue eleifend. In lobortis et velit ac consectetur. Sed laoreet luctus tempor.</p>
+
+<h2 id="mag-read-the-full-paper">:mag: Read the full paper</h2>
+<p>Doe, J.D.M., Magnussen, C.F.K. &amp; Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. <em>Journal of Science</em>, 39(2), 182-999.</p>
+
+<p><a href="https://zenodo.org/badge/latestdoi/175648361"><img src="https://zenodo.org/badge/175648361.svg" alt="DOI" /></a></p>
+
+<h2 id="floppy_disk-get-the-data">:floppy_disk: Get the data</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Col 1</th>
+      <th>Col 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Content Cell</td>
+      <td>Content Cell</td>
+    </tr>
+    <tr>
+      <td>Content Cell</td>
+      <td>Content Cell</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>lceopt [m]</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Content Cell</td>
+      <td>Content Cell</td>
+    </tr>
+    <tr>
+      <td>Content Cell</td>
+      <td>Content Cell</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="further-readings">Further readings</h2>
+:ET

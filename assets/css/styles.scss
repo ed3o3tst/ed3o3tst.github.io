@@ -63,7 +63,20 @@ p.lead {
   font-size: 1.5rem;
   margin-bottom: 1rem !important;
 }
+table {
+  
+}
 
+table, td {
+  padding: 0.25rem;
+}
+
+table, th {
+  padding: 0.25rem;
+  border-collapse: collapse;
+  border-top: 1px solid #868e96;
+  border-bottom: 1px solid #868e96;
+}
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
