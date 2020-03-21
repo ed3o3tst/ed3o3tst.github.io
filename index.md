@@ -171,11 +171,7 @@ Open source | Data available
                 <div><i class="fab fa-js-square"></i><div class="hide">JavaScript</div></div>
             </li>
             <li class="list-inline-item">
-<<<<<<< HEAD
                 <div><i class="fab fa-angular"></i><div class="hide">Angular</div></div>
-=======
-                <div class="hide"><i class="fab fa-angular">ssdfs</i></div>
->>>>>>> 554db6d96ec440185e5c961b279be208edca17fb
             </li>
             <li class="list-inline-item">
                 <i class="fab fa-react"></i>
