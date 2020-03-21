@@ -171,7 +171,7 @@ Open source | Data available
                 <i class="fab fa-js-square"></i>
             </li>
             <li class="list-inline-item">
-                <i class="fab fa-angular"><div class="hide">ssdfs</div></i>
+                <div class="hide"><i class="fab fa-angular">ssdfs</i></div>
             </li>
             <li class="list-inline-item">
                 <i class="fab fa-react"></i>
