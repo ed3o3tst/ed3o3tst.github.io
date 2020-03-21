@@ -1,7 +1,4 @@
----
-layout: default
----
-<section class="resume-section" id="about">
+I"ô<section class="resume-section" id="about">
     <div class="w-100">
         <h1 class="mb-0">Edwin
             <span class="text-primary">David</span>
@@ -27,32 +24,28 @@ layout: default
     </div>
 </section>
 
-<hr>
-
 <section class="resume-section" id="about">
-    <div class="w-100" markdown="1">
+    <div class="w-100">
 
-## Papers   
-### 2020
-:page_with_curl: [Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. *Journal of Science*, 39(2), 182-999. ](/study1/)
-Open source | Data available
+    <h2 id="papers">Papers</h2>
+    <h3 id="section">2020</h3>
+    <p>:page_with_curl: <a href="/study1/">Doe, J.D.M., Magnussen, C.F.K. &amp; Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. <em>Journal of Science</em>, 39(2), 182-999. </a>
+Open Source | Data available</p>
 
-:page_with_curl: [Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. *Journal of Science*, 39(2), 182-999. ](/study1/)
-Open source | Data available
+    <p>:page_with_curl: <a href="/study1/">Doe, J.D.M., Magnussen, C.F.K. &amp; Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. <em>Journal of Science</em>, 39(2), 182-999. </a>
+Open Source | Data available</p>
 
-:page_with_curl: [Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. *Journal of Science*, 39(2), 182-999. ](/study1/)
-Open source | Data available
+    <p>:page_with_curl: <a href="/study1/">Doe, J.D.M., Magnussen, C.F.K. &amp; Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. <em>Journal of Science</em>, 39(2), 182-999. </a>
+Open Source | Data available</p>
 
-### 2019
-:page_with_curl: [Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. *Journal of Science*, 39(2), 182-999. ](/study1/)
+    <h2 id="section-1">2019</h2>
+    <p>:page_with_curl: <a href="/study1/">Doe, J.D.M., Magnussen, C.F.K. &amp; Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. <em>Journal of Science</em>, 39(2), 182-999. </a></p>
 
-:page_with_curl: [Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. *Journal of Science*, 39(2), 182-999. ](/study1/)
+    <p>:page_with_curl: <a href="/study1/">Doe, J.D.M., Magnussen, C.F.K. &amp; Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. <em>Journal of Science</em>, 39(2), 182-999. </a></p>
 
-:page_with_curl: [Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. *Journal of Science*, 39(2), 182-999. ](/study1/)
-</div>
+    <p>:page_with_curl: <a href="/study1/">Doe, J.D.M., Magnussen, C.F.K. &amp; Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. <em>Journal of Science</em>, 39(2), 182-999. </a></p>
+  </div>
 </section>
-
-<hr>
 
 <section class="resume-section" id="about">
     <div class="w-100">
@@ -99,3 +92,4 @@ Open source | Data available
         </div>
     </div>
 </section>
+:ET

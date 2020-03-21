@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: study1
 ---
 
 # Pellentesque a nulla accumsan nisi bibendum maximus
