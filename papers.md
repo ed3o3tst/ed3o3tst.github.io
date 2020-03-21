@@ -2,5 +2,7 @@
 layout: default
 ---
 
-# A blue heading 
+# h1
 {: .blue}
+
+paragraph *style me*{.blue} more text

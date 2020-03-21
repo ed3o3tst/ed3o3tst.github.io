@@ -2,6 +2,13 @@
 layout: default
 ---
 
+# Clarence{.resume-section .mb-0 .text-primary} # Taylor 
+{: .resume-section .mb-0 .text-primary}
+
+
+3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
+{: .subheading}
+
 <section class="resume-section" id="about">
     <div>
         <h1 class="mb-0">Clarence
