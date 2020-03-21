@@ -1,8 +1,4 @@
----
-layout: default
----
-
-<h2>Experience</h2>
+I"±<h2>Experience</h2>
 <div class="resume-item mb-5">
     <div>
         <h3>Senior Web Developer</h3>
@@ -43,3 +39,4 @@ layout: default
         <span class="text-primary">September 2008 - June 2010</span>
     </div>
 </div>
+:ET

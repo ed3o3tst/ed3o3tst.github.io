@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<h2>Education</h2>
+<div class="resume-item mb-5">
+    <div>
+        <h3>University of Colorado Boulder</h3>
+        <div class="company">Bachelor of Science</div>
+        <div>Computer Science - Web Development Track</div>
+        <p>GPA: 3.23</p>
+    </div>
+    <div class="resume-date">
+        <span class="text-primary">August 2006 - May 2010</span>
+    </div>
+</div>
+<div class="resume-item">
+    <div>
+        <h3>James Buchanan High School</h3>
+        <div class="company">Technology Magnet Program</div>
+        <p>GPA: 3.56</p>
+    </div>
+    <div class="resume-date">
+        <span class="text-primary">August 2002 - May 2006</span>
+    </div>
+</div>
