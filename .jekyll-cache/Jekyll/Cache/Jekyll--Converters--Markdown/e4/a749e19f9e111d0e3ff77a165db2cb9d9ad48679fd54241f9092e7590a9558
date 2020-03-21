@@ -1,8 +1,4 @@
----
-layout: default
----
-
-<h1 class="mb-0">Edwin
+I"�<h1 class="mb-0">Edwin
     <span class="text-primary">David</span>
 </h1>
 <div class="subheading">3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
@@ -23,3 +19,4 @@ layout: default
         <i class="fab fa-facebook-f"></i>
     </a>
 </div>
+:ET
