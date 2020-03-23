@@ -1,0 +1,7 @@
+title: John Doe # your name (or website title) here
+
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+plugins:
+  - jemoji
+includes: "assets"
+

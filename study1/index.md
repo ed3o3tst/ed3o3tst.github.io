@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section class="resume-section" id="papers">
+<section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="papers">
     <div class="w-100" markdown="1">
 
 ## Pellentesque a nulla accumsan nisi bibendum maximus
@@ -22,13 +22,6 @@ Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi biben
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-
-|        | lceopt [m]  | Fmax [n] |
-| ------ | ----------- | -------- |
-| ILIO   | 0.1150      | 4000     |
-| BF     | 0.3700      | 2200     |
-| GM     | 0.1500      | 2750     |
-| RF     | 0.3400      | 1750     |
 
 ### Further readings
 
