@@ -32,6 +32,7 @@ layout: default
 
 <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="papers">
     <div class="w-100" markdown="1">
+
 ## Papers   
 ### 2020
 :page_with_curl: [Doe, J.D.M., Magnussen, C.F.K. & Li, J. Pellentesque a nulla accumsan nisi bibendum maximus. *Journal of Science*, 39(2), 182-999. ](/study1/)
