@@ -15,7 +15,7 @@ layout: default
         <div class="hide">JS Square</div><i class="fab fa-js-square"></i>
     </li>
     <li class="list-inline-item">
-        <i class="fab fa-angular"><div class="hide">ssdfs</div></i>
+        <div class="hide">Angular</div><i class="fab fa-angular"></i>
     </li>
     <li class="list-inline-item">
         <i class="fab fa-react"></i>
