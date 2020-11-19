@@ -30,7 +30,7 @@ layout: default
 
 <hr class="m-0">
 
-<section class="resume-p-3 p-lg-5 d-flex align-items-center" id="papers">
+<section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="papers">
     <div class="w-100" markdown="1">
 
 ## Papers   
@@ -77,6 +77,7 @@ Open source | Data available
 </section>
 
 <hr class="m-0">
+
 <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="experience">
     <div class="w-100" markdown="1">
         
