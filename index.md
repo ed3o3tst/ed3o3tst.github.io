@@ -83,7 +83,7 @@ Open source | Data available
 </section>
 
 <hr class="m-0">
-<section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+<section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="experience">
     <div class="w-100" markdown="1">
         
 ## Experience
@@ -135,7 +135,7 @@ Open source | Data available
 
 <hr class="m-0">
 
-<section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="education">
+<section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
     <div class="w-100">
         <h2 class="mb-5">Education</h2>
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
