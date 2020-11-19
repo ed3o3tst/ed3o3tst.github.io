@@ -182,7 +182,7 @@ Open source | Data available
                 <div><i class="fab fa-angular"></i><div class="hide">Angular</div></div>
             </li>
             <li class="list-inline-item">
-                <div><i class="fab fa-react"></i><div class="hide">React</div></div>
+                <div class="hide">React</div><i class="fab fa-react"></i>
             </li>
             <li class="list-inline-item">
                 <div><i class="fab fa-node-js"></i><div class="hide">Node.js</div></div>
