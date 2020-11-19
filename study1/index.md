@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section class="resume-section" id="papers">
+<section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="papers">
     <div class="w-100" markdown="1">
 
 ## Pellentesque a nulla accumsan nisi bibendum maximus
