@@ -12,7 +12,7 @@ layout: default
         <i class="fab fa-css3-alt"></i>
     </li>
     <li class="list-inline-item">
-        <i class="fab fa-js-square"></i>
+        <i class="fab fa-js-square"></i><div class="hide">JS Square</div></i>
     </li>
     <li class="list-inline-item">
         <i class="fab fa-angular"><div class="hide">ssdfs</div></i>
